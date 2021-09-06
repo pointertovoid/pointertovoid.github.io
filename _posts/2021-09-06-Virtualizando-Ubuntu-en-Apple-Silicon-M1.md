@@ -1,3 +1,8 @@
+---
+layout: post
+title: Virtualizando Ubuntu en Apple Silicon M1
+---
+
 # Virtualizando Ubuntu en Apple Silicon M1
 
 Con la llegada de la familia de procesadores *Apple Silicon*, basados en arquitectura ARM, las posibilidades de ejecutar sobre macOS otros sistemas operativos en una máquina virtual se ha visto muy limitada. Sin embargo, aún es posible llevar a cabo esta tarea con muy buenos resultados. En este artículo analizaremos cómo podemos instalar Ubuntu (o Kubuntu) sobre un Mac con procesador M1 de forma sencilla, rápida y gratuita.
