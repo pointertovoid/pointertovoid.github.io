@@ -20,4 +20,4 @@ UTM para Mac puede obtenerse de dos maneras diferentes:
 2. A través de la [Mac App Store](https://apps.apple.com/es/app/utm-virtual-machines/id1538878817?mt=12): En este caso la aplicación es de pago, pero es idéntica a la que se puede descargar de la página web con la diferencia de que la versión de la App Store admite actualizaciones automáticas. La descarga de la aplicación por esta vía es una forma de contribuir a la financiación del desarrollo del proyecto.
 ![alt text](https://pointertovoid.github.io/images/2021-09-06-UTM-2.png "UTM en la Mac App Store")
 
-* Artículo en desarrollo... *
+*Artículo en desarrollo...*
