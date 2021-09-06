@@ -2,6 +2,7 @@
 layout: post
 title: Virtualizando Ubuntu en Apple Silicon M1
 ---
+
 Con la llegada de la familia de procesadores *Apple Silicon*, basados en arquitectura ARM, las posibilidades de ejecutar sobre macOS otros sistemas operativos en una máquina virtual se ha visto muy limitada. Sin embargo, aún es posible llevar a cabo esta tarea con muy buenos resultados. En este artículo analizaremos cómo podemos instalar Ubuntu (o Kubuntu) sobre un Mac con procesador M1 de forma sencilla, rápida y gratuita.
 
 Efectivamente, la llegada de la nueva arquitectura de Apple ha supuesto numerosas ventajas para la plataforma (como la excelente relación potencia de cálculo / consumo eléctrico y la consecuente mejora en la autonomía de los dispositivos), pero también eliminó de un plumazo la posibilidad de *correr* otros sistemas operativos como Windows o Linux de forma virtualizada sobre macOS, debido a la falta de soporte de esta nueva familia de procesadores por parte de "los tres grandes" de la virtualización sobre macOS (VMware, VirtualBox y Parallels), centrados en la arquitectura de Intel.
@@ -18,3 +19,5 @@ UTM para Mac puede obtenerse de dos maneras diferentes:
 ![alt text](https://pointertovoid.github.io/images/2021-09-06-UTM.png "Contenido de UTM.dmg")
 2. A través de la [Mac App Store](https://apps.apple.com/es/app/utm-virtual-machines/id1538878817?mt=12): En este caso la aplicación es de pago, pero es idéntica a la que se puede descargar de la página web con la diferencia de que la versión de la App Store admite actualizaciones automáticas. La descarga de la aplicación por esta vía es una forma de contribuir a la financiación del desarrollo del proyecto.
 ![alt text](https://pointertovoid.github.io/images/2021-09-06-UTM-2.png "UTM en la Mac App Store")
+
+* Artículo en desarrollo... *
