@@ -38,7 +38,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-206855043-1 # Google Analytics configurado para respetar la privacidad de los visitantes, según https://www.clym.io/how-to-setup-google-analytics-to-be-gdpr-and-ccpa-compliant-in-5-steps/
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
